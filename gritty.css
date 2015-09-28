@@ -1,0 +1,14 @@
+.line {
+  opacity:0.3 !important;
+  position:absolute !important;
+}
+
+.col {
+  border-left:1px solid #888 !important;
+  width:0 !important;
+}
+
+.row {
+  border-top:1px solid #888 !important;
+  height:0 !important;
+}
